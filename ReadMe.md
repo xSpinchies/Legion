@@ -22,7 +22,4 @@ Our Discord Community:
 <br>
 
 
-
-##### This software is for experimental purposes only and is not meant for any illegal activity/purposes. <br> We do not condone illegal activity and strongly encourage keeping transmissions to legal/valid uses allowed by law. <br> Also, this software is made without any support from Flipper Devices and is in no way related to the official devs. 
-
-ThIs SoFtWaRe Is FoR eXpErImEnTaL pUrPoSeS oNlY aNd Is NoT mEaNt FoR aNy IlLeGaL aCtIvItY/pUrPoSeS. <br> wE dO nOt CoNdOnE iLlEgAl AcTiViTy AnD sTrOnGlY eNcOuRaGe KeEpInG tRaNsMiSsIoNs To LeGaL/vAlId UsEs AlLoWeD bY lAw. <br> AlSo, ThIs SoFtWaRe Is MaDe WiThOuT aNy SuPpOrT fRoM fLiPpEr DeViCeS aNd Is In No WaY rElAtEd To ThE oFfIcIaL dEvS.
+##### ThIs SoFtWaRe Is FoR eXpErImEnTaL pUrPoSeS oNlY aNd Is NoT mEaNt FoR aNy IlLeGaL aCtIvItY/pUrPoSeS. <br> wE dO nOt CoNdOnE iLlEgAl AcTiViTy AnD sTrOnGlY eNcOuRaGe KeEpInG tRaNsMiSsIoNs To LeGaL/vAlId UsEs AlLoWeD bY lAw. <br> AlSo, ThIs SoFtWaRe Is MaDe WiThOuT aNy SuPpOrT fRoM fLiPpEr DeViCeS aNd Is In No WaY rElAtEd To ThE oFfIcIaL dEvS.
