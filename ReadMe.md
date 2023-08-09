@@ -12,7 +12,7 @@
 #### 
 
 <br>
-Our Discord Community:
+Legion Discord Community:
 <br>
 <a href="https://discord.gg/xNSWEvjWBw"><img src="https://discordapp.com/api/guilds/937479784148115456/widget.png?style=banner4" alt="Legion Discord Community" target="_blank"></a>
 
