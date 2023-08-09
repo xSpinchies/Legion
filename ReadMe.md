@@ -1,8 +1,8 @@
-<h3 align="center">
-<a href="https://github.com/DarkFlippers/unleashed-firmware">
-<img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" align="center" alt="fzCUSTOM" border="0">
-</a>
-</h3>
+##<h3 align="center">
+##<a href="https://github.com/DarkFlippers/unleashed-firmware">
+##<img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" align="center" alt="fzCUSTOM" border="0">
+##</a>
+##</h3>
 
 ### Welcome to the Flipper Zero Unleashed Firmware repo! 
 
