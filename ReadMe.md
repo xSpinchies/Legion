@@ -14,7 +14,7 @@
 <br>
 Our Discord Community:
 <br>
-<a href="https://discord.unleashedflip.com"><img src="https://discordapp.com/api/guilds/937479784148115456/widget.png?style=banner4" alt="Unofficial Discord Community" target="_blank"></a>
+<a href="https://discord.gg/xNSWEvjWBw"><img src="https://discordapp.com/api/guilds/937479784148115456/widget.png?style=banner4" alt="Legion Discord Community" target="_blank"></a>
 
 
 <br>
