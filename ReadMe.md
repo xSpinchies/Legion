@@ -1,15 +1,15 @@
 
-### Welcome to the Flipper Zero Unleashed Firmware repo! 
-
-#### **This firmware is a fork from** [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+### Welcome to the Legion! 
 
 <br>
 
-### Most stable custom firmware focused on new features and improvements of original firmware components, with almost no UI changes
+### A group of people that have learned exploits and have now compiled a firmware to fit your needs
 
 <br>
 
 ##### This software is for experimental purposes only and is not meant for any illegal activity/purposes. <br> We do not condone illegal activity and strongly encourage keeping transmissions to legal/valid uses allowed by law. <br> Also, this software is made without any support from Flipper Devices and is in no way related to the official devs. 
+
+#### 
 
 <br>
 Our Discord Community:
@@ -20,11 +20,6 @@ Our Discord Community:
 <br>
 <br>
 
-## Dev builds (unstable)
-- https://dev.unleashedflip.com/
-- https://t.me/kotnehleb
-## Releases in Telegram
-- https://t.me/unleashed_fw
 
 # What's changed
 * Sub-GHz regional TX restrictions removed
